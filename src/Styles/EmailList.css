@@ -1,0 +1,63 @@
+.list-style {
+    border: 1px solid #cfd2dc;
+    border-radius: 5px;
+    background: white;
+    padding: 2px;
+    margin-bottom: 16px;
+    cursor: pointer;
+    display: flex;
+}
+
+.avatar-section {
+    flex: 1;
+    padding-top: 6px;
+    display: flex;
+    justify-content: center;
+}
+
+.avatar-style {
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 50%;
+    background-color: #E54065;
+    color: white;
+}
+
+.info-style {
+    flex: 11;
+    padding: 3px 0px;
+    color: #636363;
+    text-align: left;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.item-clicked {
+    flex: 2;
+    padding-top: 6px;
+    display: flex;
+    justify-content: center;
+}
+
+.bold-text {
+    font-weight: 600;
+}
+
+.favourite-tag {
+    margin-left: 20px;
+    color: #E54065;
+    font-weight: 600;
+}
+
+.bg-selected {
+    background-color: #F2F2F2;
+}
+
+.border-selected {
+    border: 1px solid black;
+}
