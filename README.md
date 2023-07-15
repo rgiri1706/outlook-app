@@ -1,3 +1,7 @@
+![Screenshot (23)](https://github.com/rgiri1706/outlook-app/assets/26921687/4aec475e-b2a7-4950-be9c-8a201f645be6)
+![Uploading Screenshot (22).png…]()
+![Uploading Screenshot (21).png…]()
+![Screenshot (20)](https://github.com/rgiri1706/outlook-app/assets/26921687/64eb9559-0f1d-4041-a493-2284009bfdda)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
